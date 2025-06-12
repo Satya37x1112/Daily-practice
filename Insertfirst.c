@@ -96,6 +96,7 @@ int main() {
                 break;
             case 4:
                 Insertbeginning();
+                break;
             default:
                 printf("Invalid choice. Please try again.\n");
         }
