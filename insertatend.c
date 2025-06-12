@@ -117,8 +117,10 @@ int main() {
                 break;
             case 4:
                 Insertbeginning();
+                break;
             case 5:
                 Insertatend();
+                break;
             default:
                 printf("Invalid choice. Please try again.\n");
         }
